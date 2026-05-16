@@ -12,6 +12,8 @@
         "url": "https://github.com/ch4rindo/vpm",
         "text": "View on GitHub"
     },
-    "githubRepos": [],
+    "githubRepos": [
+        "ch4rindo/AssetFinder-release"
+    ],
     "packages": []
 }
