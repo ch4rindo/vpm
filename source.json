@@ -1,0 +1,17 @@
+{
+    "name": "ch4rindo's Listing",
+    "id": "com.github.ch4rindo.vpm",
+    "url": "https://ch4rindo.github.io/vpm/index.json",
+    "author": {
+        "email": "96crk.nk@gmail.com",
+        "name": "ch4rindo",
+        "url": "https://github.com/ch4rindo"
+    },
+    "description": "ch4rindo's VPM package listing",
+    "infoLink": {
+        "url": "https://github.com/ch4rindo/vpm",
+        "text": "View on GitHub"
+    },
+    "githubRepos": [],
+    "packages": []
+}
