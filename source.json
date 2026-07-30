@@ -13,7 +13,8 @@
         "text": "View on GitHub"
     },
     "githubRepos": [
-        "ch4rindo/AssetFinder-release"
+        "ch4rindo/AssetFinder-release",
+        "ch4rindo/MaterialSwitcher-release"
     ],
     "packages": []
 }
